@@ -1,0 +1,205 @@
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\ChessAPI.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\EntityFramework.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\EntityFramework.xml
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+G:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\58. Сервер. Новая игра на JSON\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ChessRules.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\EntityFramework.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\EntityFramework.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\59. Сервер. Официант без логики\_Source\_Save_2\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessRules.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.xml
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ChessAPI.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ChessRules.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\EntityFramework.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\EntityFramework.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+F:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\60. Сервер. Ваш ход!\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ChessRules.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\61. Сервер. Шахматная Идемпотентность\_Source\_Save_1\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ChessAPI.dll.config
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ChessAPI.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ChessRules.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\EntityFramework.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\Newtonsoft.Json.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\EntityFramework.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\EntityFramework.SqlServer.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\Newtonsoft.Json.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\System.Net.Http.Formatting.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\System.Web.Http.WebHost.xml
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ru\EntityFramework.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ru\System.Web.Http.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csprojResolveAssemblyReference.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.csproj.CoreCompileInputs.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_6\62. Сервер. Китайская ничья\_Source\ChessAPI\ChessAPI\obj\Debug\ChessAPI.pdb

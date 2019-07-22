@@ -1,0 +1,9 @@
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\bin\Release\ChessDemo.exe.config
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\bin\Release\ChessDemo.exe
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\bin\Release\ChessDemo.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\bin\Release\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\bin\Release\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\obj\Release\ChessDemo.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\obj\Release\ChessDemo.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\obj\Release\ChessDemo.exe
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessDemo\obj\Release\ChessDemo.pdb

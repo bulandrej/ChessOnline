@@ -1,0 +1,171 @@
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\12. Классы. Шахматная библиотека\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\12. Классы. Шахматная библиотека\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\12. Классы. Шахматная библиотека\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\12. Классы. Шахматная библиотека\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\12. Классы. Шахматная библиотека\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\12. Классы. Шахматная библиотека\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\13. Классы. Цветная фигура\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\13. Классы. Цветная фигура\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\13. Классы. Цветная фигура\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\13. Классы. Цветная фигура\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\13. Классы. Цветная фигура\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+C:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\13. Классы. Цветная фигура\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\14. Классы. Квадратная площадь\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\14. Классы. Квадратная площадь\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\14. Классы. Квадратная площадь\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\14. Классы. Квадратная площадь\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\14. Классы. Квадратная площадь\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\14. Классы. Квадратная площадь\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\19. Классы. Консольная доска\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\19. Классы. Консольная доска\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\19. Классы. Консольная доска\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\19. Классы. Консольная доска\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\19. Классы. Консольная доска\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_2\19. Классы. Консольная доска\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\21. Волшебные шахматы\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\21. Волшебные шахматы\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\21. Волшебные шахматы\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\21. Волшебные шахматы\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\21. Волшебные шахматы\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\21. Волшебные шахматы\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\22. Сборка фена\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+d:\_V_new\!_Progs\!_ПЕРЕНЕСЕНО\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\23. Генератор ходов\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\24. Куда идёт Король\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\24. Куда идёт Король\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\24. Куда идёт Король\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\24. Куда идёт Король\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\24. Куда идёт Король\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\24. Куда идёт Король\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\25. Ночью с Конём\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\25. Ночью с Конём\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\25. Ночью с Конём\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\25. Ночью с Конём\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\25. Ночью с Конём\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\25. Ночью с Конём\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\26. Дальнобойщики\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\26. Дальнобойщики\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\26. Дальнобойщики\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\26. Дальнобойщики\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\26. Дальнобойщики\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\26. Дальнобойщики\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\27. Храбрая пешка\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\27. Храбрая пешка\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\27. Храбрая пешка\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\27. Храбрая пешка\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\27. Храбрая пешка\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\27. Храбрая пешка\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\28. Четвёртое превращение\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\28. Четвёртое превращение\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\28. Четвёртое превращение\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\28. Четвёртое превращение\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\28. Четвёртое превращение\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\28. Четвёртое превращение\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\29. Рефакторинг на доске\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\29. Рефакторинг на доске\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\29. Рефакторинг на доске\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\29. Рефакторинг на доске\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\29. Рефакторинг на доске\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\29. Рефакторинг на доске\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\30. Допрыгалась!\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\30. Допрыгалась!\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\30. Допрыгалась!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\30. Допрыгалась!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\30. Допрыгалась!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\30. Допрыгалась!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\31. Королевский паркур\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\32. Защита короля\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\32. Защита короля\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\32. Защита короля\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\32. Защита короля\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\32. Защита короля\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\32. Защита короля\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\33. Шах и Мат!\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\33. Шах и Мат!\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\33. Шах и Мат!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\33. Шах и Мат!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\33. Шах и Мат!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\33. Шах и Мат!\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\34. ТРЕТИЙ ФИНАЛЬНЫЙ УРОК\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\34. ТРЕТИЙ ФИНАЛЬНЫЙ УРОК\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\34. ТРЕТИЙ ФИНАЛЬНЫЙ УРОК\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\34. ТРЕТИЙ ФИНАЛЬНЫЙ УРОК\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\34. ТРЕТИЙ ФИНАЛЬНЫЙ УРОК\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\34. ТРЕТИЙ ФИНАЛЬНЫЙ УРОК\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\35. VIP. Шахматное супертестирование\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\35. VIP. Шахматное супертестирование\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\35. VIP. Шахматное супертестирование\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\35. VIP. Шахматное супертестирование\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\35. VIP. Шахматное супертестирование\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\35. VIP. Шахматное супертестирование\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\36. VIP. Можно пройти\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\36. VIP. Можно пройти\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\36. VIP. Можно пройти\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\36. VIP. Можно пройти\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\36. VIP. Можно пройти\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\36. VIP. Можно пройти\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\_save_3\_v3.5\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\_save_3\_v3.5\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\_save_3\_v3.5\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\_save_3\_v3.5\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\_save_3\_v3.5\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+g:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\_save_3\_v3.5\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csprojResolveAssemblyReference.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+f:\_Разн\!_Progs_текучка\!_videosharp.info\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_8\71. Клиент. Достучаться до облака\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\95. VIP. Меню DimanDOSа\_Sourсe\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\95. VIP. Меню DimanDOSа\_Sourсe\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\95. VIP. Меню DimanDOSа\_Sourсe\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\95. VIP. Меню DimanDOSа\_Sourсe\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\95. VIP. Меню DimanDOSа\_Sourсe\ChessRules\ChessRules\obj\Debug\ChessRules.pdb

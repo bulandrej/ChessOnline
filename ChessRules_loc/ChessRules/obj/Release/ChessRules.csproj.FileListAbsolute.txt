@@ -1,0 +1,10 @@
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\bin\Release\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\bin\Release\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\obj\Release\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\obj\Release\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_3_алгоритмы\37. VIP. Как пройти в библиотеку\_Source\ChessRules\ChessRules\obj\Release\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\bin\Release\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\bin\Release\ChessRules.pdb
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\obj\Release\ChessRules.csproj.CoreCompileInputs.cache
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\obj\Release\ChessRules.dll
+c:\Users\John Smitt\Downloads\!_NEW_ITStep\!_Шахматы по сети\_Часть_9_Рефакторинг\90. Рефакторинг. Потерянная пешка\_Source\ChessRules\ChessRules\obj\Release\ChessRules.pdb
